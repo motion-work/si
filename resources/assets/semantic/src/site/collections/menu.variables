@@ -1,0 +1,6 @@
+/*******************************
+    User Variable Overrides
+*******************************/
+
+@hoverItemBackground: #93D1E4 !important;
+@hoverItemTextColor: #37667F !important;

@@ -1,0 +1,18 @@
+/*******************************
+         Site Overrides
+*******************************/
+
+.ui.menu {
+  border: none;
+  box-shadow: none;
+}
+
+.ui.menu .item {
+  border-radius: @borderRadius;
+  background: @itemBackground;
+  padding: @itemVerticalPadding @itemHorizontalPadding;
+  text-transform: @itemTextTransform;
+  color: @itemTextColor;
+  font-weight: @itemFontWeight;
+  transition: @itemTransition;
+}

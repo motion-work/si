@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="45px" viewBox="0 0 30 45" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>locker</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0.108333333" y="16.6926083" width="25.7833333" height="26.1071429" rx="2"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Oval-29-+-Rectangle-27-+-Oval-29" transform="translate(2.168539, 1.000000)">
+            <path d="M22.6296296,16.6926083 L22.6296296,9.67078063 C22.4110698,4.29252886 18.1838907,0 13,0 C7.81610932,0 3.58893018,4.29252886 3.378578,9.67077709 L3.37037037,16.6926083" id="Oval-29" stroke="#DCEFFE" stroke-width="2"></path>
+            <g id="Rectangle-27">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <rect stroke="#008AFF" stroke-width="2" x="-0.891666667" y="15.6926083" width="27.7833333" height="28.1071429" rx="2"></rect>
+                <rect stroke="#DCEFFE" stroke-width="2" x="1.10833333" y="17.6926083" width="23.7833333" height="24.1071429" rx="2"></rect>
+            </g>
+            <path d="M11.4978785,29.5597336 C10.8857662,29.0961714 10.4895641,28.3563528 10.4895641,27.522834 C10.4895641,26.118946 11.6135245,24.9808699 13,24.9808699 C14.3864755,24.9808699 15.5104359,26.118946 15.5104359,27.522834 C15.5104359,28.3563528 15.1142338,29.0961714 14.5021215,29.5597336 L15.3812399,33.5126157 L10.6187601,33.5126157 L11.4978785,29.5597336 Z" id="Oval-29" fill="#008AFF" fill-rule="evenodd"></path>
+        </g>
+    </g>
+</svg>
